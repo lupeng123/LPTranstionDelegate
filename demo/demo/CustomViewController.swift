@@ -2,14 +2,14 @@
 //  CustomViewController.swift
 //  aaaa
 //
-//  Created by 路鹏 on 2019/1/7.
+//  Created by 路鹏 on 2019/2/18.
 //  Copyright © 2019 路鹏. All rights reserved.
 //
 
 import UIKit
 
-class CustomViewController: UIViewController,UIGestureRecognizerDelegate {
-    
+class CustomViewController: UIViewController {
+
     override func viewDidLoad() {
         super.viewDidLoad()
         self.view.backgroundColor = UIColor.yellow;
